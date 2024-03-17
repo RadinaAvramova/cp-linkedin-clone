@@ -1,2 +1,4 @@
-# cp-linkedin-clone
-cp-linkedin-clone
+# Linkedin Clone
+
+## Description
+This is the ReactJS LinkedIn Clone.
